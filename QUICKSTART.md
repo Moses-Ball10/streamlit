@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ### 3. Run Dashboard
 ```bash
-streamlit run 🥇 Dashboard.py
+streamlit run 🥇\ Dashboard.py
 ```
 
 ✅ Dashboard opens at `http://localhost:8501`
@@ -31,7 +31,8 @@ streamlit run 🥇 Dashboard.py
 
 ```
 project/
-├── app.py                              # Main entry point
+├── 🥇 Dashboard.py      # Main entry point
+├── data/                # All data are here            
 ├── pages/
 │   ├── 1_🏠_Overview.py               # Page 1: KPIs & Overview
 │   ├── 2_🗺️_Global_Analysis.py        # Page 2: Geographic Analysis
