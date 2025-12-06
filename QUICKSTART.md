@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ### 3. Run Dashboard
 ```bash
-streamlit run app.py
+streamlit run 🥇 Dashboard.py
 ```
 
 ✅ Dashboard opens at `http://localhost:8501`
